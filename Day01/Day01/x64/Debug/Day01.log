@@ -1,2 +1,7 @@
-﻿  ref3.cpp
-  Day01.vcxproj -> C:\Source\Cpp\Day01\x64\Debug\Day01.exe
+﻿  st_c3.cpp
+C:\Source\Cpp\Day01\st_c3.cpp(22,12): error C2440: '초기화 중': 'initializer list'에서 'Human'(으)로 변환할 수 없습니다.
+      C:\Source\Cpp\Day01\st_c3.cpp(22,12):
+      'Human::Human': 함수는 3개의 인수를 사용하지 않습니다.
+          C:\Source\Cpp\Day01\st_c3.cpp(22,12):
+          인수 목록 '(const char [7], int, const char [5])'을(를) 일치시키는 동안
+  

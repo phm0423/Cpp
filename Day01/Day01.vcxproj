@@ -143,7 +143,13 @@
     <ClCompile Include="ref.cpp" />
     <ClCompile Include="ref2.cpp" />
     <ClCompile Include="ref3.cpp" />
+    <ClCompile Include="ref4.cpp" />
+    <ClCompile Include="ref5.cpp" />
+    <ClCompile Include="ref6.cpp" />
     <ClCompile Include="scope.cpp" />
+    <ClCompile Include="st_c.cpp" />
+    <ClCompile Include="st_c2.cpp" />
+    <ClCompile Include="st_c3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="scope.h" />
