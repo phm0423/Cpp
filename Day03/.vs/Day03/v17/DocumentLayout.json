@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Cpp\\Day03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\operator2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:operator2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\static2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:static2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\static3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:static3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\static.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:static.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\moveCon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:moveCon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\copyconstructor2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:copyconstructor2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\copyconstor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:copyconstor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC790.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:\uBCC0\uD658\uC0DD\uC131\uC790.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\movecon2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:movecon2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC7903.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:\uBCC0\uD658\uC0DD\uC131\uC7903.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC7902.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01BA7BF-01CA-44FF-B105-8B3302493680}|Day03.vcxproj|solutionrelative:\uBCC0\uD658\uC0DD\uC131\uC7902.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "operator2.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\operator2.cpp",
+              "RelativeDocumentMoniker": "operator2.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\operator2.cpp",
+              "RelativeToolTip": "operator2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T08:07:05.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "operator.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\operator.cpp",
+              "RelativeDocumentMoniker": "operator.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\operator.cpp",
+              "RelativeToolTip": "operator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T07:44:03.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "static3.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\static3.cpp",
+              "RelativeDocumentMoniker": "static3.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\static3.cpp",
+              "RelativeToolTip": "static3.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T07:14:45.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "static2.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\static2.cpp",
+              "RelativeDocumentMoniker": "static2.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\static2.cpp",
+              "RelativeToolTip": "static2.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T06:57:24.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "static.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\static.cpp",
+              "RelativeDocumentMoniker": "static.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\static.cpp",
+              "RelativeToolTip": "static.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T06:43:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "movecon2.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\movecon2.cpp",
+              "RelativeDocumentMoniker": "movecon2.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\movecon2.cpp",
+              "RelativeToolTip": "movecon2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T03:10:53.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "moveCon.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\moveCon.cpp",
+              "RelativeDocumentMoniker": "moveCon.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\moveCon.cpp",
+              "RelativeToolTip": "moveCon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T03:03:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\uBCC0\uD658\uC0DD\uC131\uC7903.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC7903.cpp",
+              "RelativeDocumentMoniker": "\uBCC0\uD658\uC0DD\uC131\uC7903.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC7903.cpp",
+              "RelativeToolTip": "\uBCC0\uD658\uC0DD\uC131\uC7903.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T02:37:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\uBCC0\uD658\uC0DD\uC131\uC7902.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC7902.cpp",
+              "RelativeDocumentMoniker": "\uBCC0\uD658\uC0DD\uC131\uC7902.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC7902.cpp",
+              "RelativeToolTip": "\uBCC0\uD658\uC0DD\uC131\uC7902.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T02:30:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\uBCC0\uD658\uC0DD\uC131\uC790.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC790.cpp",
+              "RelativeDocumentMoniker": "\uBCC0\uD658\uC0DD\uC131\uC790.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\\uBCC0\uD658\uC0DD\uC131\uC790.cpp",
+              "RelativeToolTip": "\uBCC0\uD658\uC0DD\uC131\uC790.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T02:17:59.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "copyconstructor2.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\copyconstructor2.cpp",
+              "RelativeDocumentMoniker": "copyconstructor2.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\copyconstructor2.cpp",
+              "RelativeToolTip": "copyconstructor2.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T00:47:16.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "copyconstor.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\Day03\\copyconstor.cpp",
+              "RelativeDocumentMoniker": "copyconstor.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\Day03\\copyconstor.cpp",
+              "RelativeToolTip": "copyconstor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T01:07:05.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
