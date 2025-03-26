@@ -1,25 +1,27 @@
-#include<iostream>
-#include<mysql/jdbc.h>
-
+/*
+	DB ¿¬°á
+*/
+# include <iostream>
+# include <mysql/jdbc.h>
 using namespace std;
 using namespace sql;
 
-int main() 
+int main()
 {
+	const string server = "tcp://127.0.0.1:3306";
+	const string username = "root";
+	const string password = "12345";
+	const string database = "testDB";
+
 	try {
-		mysql::MySQL_Driver* driver;
-		Connection* con;
-
-		driver = mysql::get_mysql_driver_instance();
-
-		con = driver->connect("tcp://127.0.0.1:3306", "madang", "12345");
-
-		con->setSchema("madang");
-
-		cout << "Connection successful!!" << endl;
+		mysql::MySQL_Driver* driver = mysql::get_driver_instance();
+		unique_ptr<Connection> conn ( driver->connect(server, username, password));
+		conn->setSchema(database);
+		cout << "MySQL Connection success" << endl;
 	}
 	catch (SQLException& e) {
-		cerr << "MySql Connection failed!!" << e.what() << endl;
+		cout << "MySQL Connection failed" << e.what() << endl;
 	}
+
 	return 0;
 }

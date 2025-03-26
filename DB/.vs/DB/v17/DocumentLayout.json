@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F9D7771-435D-479C-9CE4-44F871B59825}|DB.vcxproj|C:\\Source\\Cpp\\DB\\DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F9D7771-435D-479C-9CE4-44F871B59825}|DB.vcxproj|solutionrelative:DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9D7771-435D-479C-9CE4-44F871B59825}|DB.vcxproj|C:\\Source\\Cpp\\DB\\DB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F9D7771-435D-479C-9CE4-44F871B59825}|DB.vcxproj|solutionrelative:DB2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB2.cpp",
+              "DocumentMoniker": "C:\\Source\\Cpp\\DB\\DB2.cpp",
+              "RelativeDocumentMoniker": "DB2.cpp",
+              "ToolTip": "C:\\Source\\Cpp\\DB\\DB2.cpp",
+              "RelativeToolTip": "DB2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T00:32:49.599Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +41,9 @@
               "RelativeDocumentMoniker": "DB.cpp",
               "ToolTip": "C:\\Source\\Cpp\\DB\\DB.cpp",
               "RelativeToolTip": "DB.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T07:57:32.805Z",
+              "WhenOpened": "2025-03-26T01:11:01.501Z",
               "EditorCaption": ""
             }
           ]
