@@ -70,4 +70,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Dockerfile">
+      <Filter>헤더 파일</Filter>
+    </None>
+  </ItemGroup>
 </Project>
